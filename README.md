@@ -1,4 +1,4 @@
-# How do I test <BLANK>?
+# How do I test `<BLANK>`?
 
 There probably has been this question, which unanswered could lead to no tests
 written at all, because it is easier to not just do it.
@@ -16,5 +16,5 @@ I hope I can answer questions like these properly.
 
 ## Contributing
 
-If there is a question, submit an Issue with a title "How do I test <BLANK>" where
-"<BLANK>" is replaced with what you want to test.
+If there is a question, submit an Issue with a title "How do I test `<BLANK>`" where
+"`<BLANK>`" is replaced with what you want to test.
